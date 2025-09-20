@@ -22,4 +22,5 @@
     printf("The entered char is : %c",c);
 
     return 0;
+
 }
