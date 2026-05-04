@@ -22,6 +22,7 @@
                     printf("You choosed Apple");
                     break;
                 }
+            //break;
             break;
         
                 
