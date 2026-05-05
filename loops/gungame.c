@@ -13,6 +13,7 @@ int main()
     }
     printf("the safe safe position in the table:%d\n",safe_position);
     return 0;
+    return 0;
 
 }
 
